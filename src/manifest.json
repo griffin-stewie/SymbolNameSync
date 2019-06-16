@@ -1,0 +1,33 @@
+{
+  "name": "SymbolNameSync",
+  "description": "This plugin gives you syncing name between Symbol masters and its instances.",
+  "author": "griffin-stewie",
+  "homepage": "https://griffin-stewie.github.io/",
+  "version": "0.5.0",
+  "identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync",
+  "icon": "icon.png",
+  "appcast": "https://github.com/griffin-stewie/SymbolNameSync/blob/master/.appcast.xml",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Sync All Symbol Name",
+      "identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync.syncAllSymbolName-command-identifier",
+      "handler": "syncSymbolName",
+      "script": "./main.js"
+    },
+    {
+      "name": "Sync Selected Symbol Name",
+      "identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync.syncSelectedSymbolName-command-identifier",
+      "handler": "syncSelectedSymbolName",
+      "script": "./main.js"
+    }
+  ],
+  "menu": {
+    "title": "Symbol Name Sync",
+    "items": [
+      "net.cyan-stivy.sketchPlugin.symbol-name-sync.syncAllSymbolName-command-identifier",
+      "net.cyan-stivy.sketchPlugin.symbol-name-sync.syncSelectedSymbolName-command-identifier"
+    ]
+  }
+}

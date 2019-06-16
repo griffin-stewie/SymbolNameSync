@@ -1,0 +1,15 @@
+# build artifacts
+SymbolNameSync.sketchplugin/Contents/Sketch
+SymbolNameSync.sketchplugin/Contents/Resources/_webpack_resources
+
+# npm
+node_modules
+.npm
+npm-debug.log
+
+# mac
+.DS_Store
+
+# WebStorm
+.idea
+/SymbolNameSync.sketchplugin
