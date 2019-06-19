@@ -6,7 +6,7 @@
   "version": "0.5.0",
   "identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync",
   "icon": "icon.png",
-  "appcast": "https://github.com/griffin-stewie/SymbolNameSync/blob/master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "commands": [
