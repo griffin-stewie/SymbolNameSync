@@ -1,32 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>SymbolNameSync</title>
     <description>This Sketch plugin gives you syncing names between Symbol masters and its instances.</description>
     <language>en</language>
-      <item>
-        <title>Version 0.5.1</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>Fixed appcast URL to work Sketch's plugin update process properly.
+    <item>
+      <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.2/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.2"/>
+    </item>
+    <item>
+      <title>Version 0.5.1</title>
+      <description>
+          
+            &lt;ul&gt;
+              &lt;li&gt;Fixed appcast URL to work Sketch's plugin update process properly.
 
-</li>
-            </ul>
-          ]]>
+&lt;/li&gt;
+            &lt;/ul&gt;
+          
         </description>
-        <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.1/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.1" />
-      </item>
-      <item>
-        <title>Version 0.5.0</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>First release!</li>
-            </ul>
-          ]]>
+      <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.1/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.1"/>
+    </item>
+    <item>
+      <title>Version 0.5.0</title>
+      <description>
+          
+            &lt;ul&gt;
+              &lt;li&gt;First release!&lt;/li&gt;
+            &lt;/ul&gt;
+          
         </description>
-        <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.0/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.0" />
-      </item>
+      <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.0/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.0"/>
+    </item>
   </channel>
 </rss>
