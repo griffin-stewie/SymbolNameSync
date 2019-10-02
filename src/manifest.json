@@ -3,7 +3,7 @@
   "description": "This plugin gives you syncing name between Symbol masters and its instances.",
   "author": "griffin-stewie",
   "homepage": "https://github.com/griffin-stewie/SymbolNameSync",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "identifier": "net.cyan-stivy.sketchPlugin.symbol-name-sync",
   "icon": "icon.png",
   "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
