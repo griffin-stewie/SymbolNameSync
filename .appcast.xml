@@ -5,6 +5,9 @@
     <description>This Sketch plugin gives you syncing names between Symbol masters and its instances.</description>
     <language>en</language>
     <item>
+      <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.4/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.4"/>
+    </item>
+    <item>
       <enclosure url="https://github.com/griffin-stewie/SymbolNameSync/releases/download/v0.5.3/SymbolNameSync.sketchplugin.zip" sparkle:version="0.5.3"/>
     </item>
     <item>
