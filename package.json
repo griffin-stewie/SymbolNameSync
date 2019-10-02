@@ -8,6 +8,7 @@
     "name": "SymbolNameSync",
     "manifest": "src/manifest.json",
     "main": "SymbolNameSync.sketchplugin",
+    "repository": "https://github.com/griffin-stewie/SymbolNameSync",
     "assets": [
       "assets/**/*"
     ]
