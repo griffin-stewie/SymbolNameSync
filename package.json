@@ -1,14 +1,17 @@
 {
   "name": "symbolnamesync",
+  "description": "This plugin gives you syncing name between Symbol masters and its instances.",
   "version": "0.5.5",
   "engines": {
     "sketch": ">=3.0"
   },
   "skpm": {
     "name": "SymbolNameSync",
+    "author": "griffin-stewie",
+    "repository": "https://github.com/griffin-stewie/SymbolNameSync",
     "manifest": "src/manifest.json",
     "main": "SymbolNameSync.sketchplugin",
-    "repository": "https://github.com/griffin-stewie/SymbolNameSync",
+    "homepage": "https://github.com/griffin-stewie/SymbolNameSync",
     "assets": [
       "assets/**/*"
     ]
